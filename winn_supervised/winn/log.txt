@@ -1,0 +1,36 @@
+Mode: 1 (0 for baseline, 1 for WINN).
+Images: 45000 for training, 15000 for validation, 10000 for test.
+Epochs: 200.
+Batch size: 100.
+Number of critics: 1.
+Max. optimizing steps: 2000.
+Mode: 1 (0 for baseline, 1 for WINN).
+Images: 45000 for training, 15000 for validation, 10000 for test.
+Epochs: 200.
+Batch size: 100.
+Number of critics: 1.
+Max. optimizing steps: 2000.
+Mode: 1 (0 for baseline, 1 for WINN).
+Images: 45000 for training, 15000 for validation, 10000 for test.
+Epochs: 200.
+Batch size: 100.
+Number of critics: 1.
+Max. optimizing steps: 2000.
+Mode: 1 (0 for baseline, 1 for WINN).
+Images: 45000 for training, 15000 for validation, 10000 for test.
+Epochs: 200.
+Batch size: 100.
+Number of critics: 1.
+Max. optimizing steps: 2000.
+Mode: 1 (0 for baseline, 1 for WINN).
+Images: 45000 for training, 15000 for validation, 10000 for test.
+Epochs: 200.
+Batch size: 100.
+Number of critics: 1.
+Max. optimizing steps: 2000.
+Mode: 1 (0 for baseline, 1 for WINN).
+Images: 45000 for training, 15000 for validation, 10000 for test.
+Epochs: 200.
+Batch size: 100.
+Number of critics: 1.
+Max. optimizing steps: 2000.
